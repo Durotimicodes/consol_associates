@@ -160,6 +160,40 @@ ul,li{
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
 }
+.the__team {
+	margin-top: 150px ;
+	text-shadow: 1px 1px #000;
+}
+
+.nav__list{
+	color: #fff;
+	text-shadow: 1px 1px #000;
+}
+
+.service__fit {
+	object-fit: cover;
+	height: 300px;
+}
+
+.news__image {
+	object-fit: contain;
+	height: 400px;
+}
+
+.news_one {
+	width: 50%;
+	height: auto;
+}
+
+.news__one > p {
+	font-size: 14px;
+}
+
+
+.consol__logo{
+	height: 50px;
+	width: 400px;
+}
 
 .centered{
 	text-align:center;	
@@ -467,7 +501,7 @@ ul,li{
 img{
 	display:inline-block;
 	max-width:100%;
-	height:auto;	
+	/* height:auto;	 */
 }
 
 /*** 
