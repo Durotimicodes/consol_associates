@@ -135,6 +135,10 @@ p,.text{
 	margin:auto auto;
 }
 
+.slide__words{
+	text-shadow: 1px 1px #000;
+}
+
 .page-wrapper{
 	position:relative;
 	margin:0 auto;
@@ -189,10 +193,15 @@ ul,li{
 	font-size: 14px;
 }
 
+.service__title {
+	text-shadow: 1.5px 1.5px #000;
+	
+}
+
 
 .consol__logo{
 	height: 50px;
-	width: 400px;
+	width: 380px;
 }
 
 .centered{
@@ -1172,7 +1181,7 @@ img{
 
 .header-style-seven .main-menu .navigation > li:hover > a,
 .header-style-seven .main-menu .navigation > li.current > a{
-	color:#ffffff;
+	color:#fff;
 }
 
 .main-menu .navigation > li:hover > a:before,
