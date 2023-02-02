@@ -118,6 +118,15 @@ textarea{
 	color:#00F749;
 }
 
+.project__title {
+	text-shadow: 1px 1px #000;
+}
+
+.nav__title {
+	text-shadow: 0.7px 0.7px #000;
+	
+}
+
 p,.text{
 	position:relative;
 	line-height:1.8em;	
