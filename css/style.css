@@ -2167,6 +2167,10 @@ img{
 	background-color:#02a633;
 }
 
+.text-service {
+	font-size: 5px;
+}
+
 .counter-section .image-column{
 	position:relative;
 }
@@ -2217,6 +2221,14 @@ img{
 	line-height:1.8em;
 	font-size:16px;
 	margin-bottom:35px;
+}
+
+.text-styl {
+	text-shadow: 1px 1px #000;
+}
+
+.float {
+	margin-right: 100%;
 }
 
 /*Fact Counter*/
